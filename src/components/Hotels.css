@@ -1,0 +1,21 @@
+.title1{
+    padding: 1rem;
+    width: 75%;
+    background-color:  black;
+    border-top: 0.2rem solid white;
+    border-bottom: 0.2rem solid white;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    box-shadow: 2rem #ff4dd2;
+}
+.title1:hover{
+    background-color: white;
+    border-top: 0.2rem solid black;
+    border-bottom: 0.2rem solid black;
+    color: black;
+}
+p{ 
+   letter-spacing: 0.1rem;
+   text-align: center;
+}

@@ -1,0 +1,28 @@
+.card2{
+    background-color: #00ffff;
+    border: 0.1rem solid black;
+    text-align: center;
+    box-shadow: 0.1rem 0.1rem gray;
+    border-radius: 1rem;
+}
+.card1{
+    background-color:  white;
+    border-top: 0.3rem solid black;
+    border-bottom: 0.3rem solid black;
+}
+.card2:hover{
+    transform: scale(0.99);
+    border: 0.1rem solid black;
+    box-shadow: 0.2rem 0.2rem gray;
+}
+.optimg{
+     border-top: 0.3rem solid  lightcoral;  
+     border-bottom: 0.3rem solid  lightcoral; 
+}
+.b1{
+    background-color: transparent;
+}
+.b1:hover{
+    background-color: black;
+    color: white;
+}
